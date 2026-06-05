@@ -15,10 +15,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Inject blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dwao.com/blog/feed/"
-          readme_path: "./profile/README.md"
-          max_post_count: 5
-          commit_message: "chore(readme): refresh latest DWAO blog posts"
+      - name: Update README from sitemap
+        run: node .github/scripts/update-blog-posts.mjs
+
+      - name: Commit changes
+        run: |
+          if [[ -z "$(git status --porcelain profile/README.md)" ]]; then
+            echo "No README changes — skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git commit -m "chore(readme): refresh latest DWAO blog posts"
+          git push
