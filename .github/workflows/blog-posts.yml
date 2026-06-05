@@ -1,0 +1,24 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Pull latest DWAO blog posts into README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Inject blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dwao.com/blog/feed/"
+          readme_path: "./profile/README.md"
+          max_post_count: 5
+          commit_message: "chore(readme): refresh latest DWAO blog posts"

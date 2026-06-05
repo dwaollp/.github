@@ -1,10 +1,33 @@
+<div align="center">
+
 # Welcome to DWAO 🚀
+
+<a href="https://dwao.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4F46E5&center=true&vCenter=true&width=720&lines=Performance+Marketing+%C2%B7+SEO+%C2%B7+MarTech;Data+Engineering+%26+ML+for+Growth;Adobe+%26+Google+Cloud+Partners;Bridging+Vision+and+Value" alt="DWAO — Performance Marketing, MarTech, Data" />
+</a>
+
+<p>
+  <a href="https://in.linkedin.com/company/digital-web-analytics-and-optimization">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dwao.com">
+    <img src="https://img.shields.io/badge/Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://dwao.com/blog">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://dwao.com/contact">
+    <img src="https://img.shields.io/badge/Contact_Us-10B981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Us" />
+  </a>
+</p>
+
+</div>
 
 DWAO is a Performance Marketing, SEO, and MarTech agency dedicated to driving data-driven growth. We bridge the gap between strategic vision and brand momentum by leveraging technology to help brands connect vision with value.
 
 ---
 
-## Our Tech & MarTech Stack
+## 🛠 Our Tech & MarTech Stack
 
 **Languages & Engineering**
 
@@ -69,7 +92,7 @@ DWAO is a Performance Marketing, SEO, and MarTech agency dedicated to driving da
 
 ---
 
-## Our Capabilities
+## 💼 Our Capabilities
 
 We specialize in end-to-end digital transformation, advanced analytics, and custom engineering. Our core service areas include:
 
@@ -83,13 +106,30 @@ We specialize in end-to-end digital transformation, advanced analytics, and cust
 *   **Customer & Data Platforms:** Strategy and implementation for Adobe Experience Platform (AEP), Segment, and Data Management Platforms (Adobe Audience Manager).
 *   **Training & Workshops:** Upskilling teams to master the modern MarTech stack.
 
-## Why Work With Us
-With experience spanning collaborations with over 250 clients worldwide, we pride ourselves on being intelligent, resourceful, and dedicated to execution. We focus on making technology work for your business goals.
+---
+
+## 📝 From the DWAO Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Latest posts auto-injected here by .github/workflows/blog-posts.yml -->
+<!-- BLOG-POST-LIST:END -->
+
+📰 Read more on the [DWAO Blog →](https://dwao.com/blog)
 
 ---
 
-### Connect With Us
-🌐 **Website:** [dwao.com](https://dwao.com)
-📍 **Presence:** India | Global | Thailand | UAE | USA
+## 🤝 Why Work With Us
+With experience spanning collaborations with over **250 clients worldwide**, we pride ourselves on being intelligent, resourceful, and dedicated to execution. We focus on making technology work for your business goals.
 
-*Have a project in mind or want to collaborate? Reach out via our website.*
+## 🌱 Join Us / Work With Us
+We're always looking to collaborate with brands, partners, and talent who care about doing MarTech right.
+
+➡️ **Have a project, partnership, or career interest?** [Get in touch via dwao.com/contact](https://dwao.com/contact)
+
+---
+
+<div align="center">
+
+🌐 [dwao.com](https://dwao.com) · 💼 [LinkedIn](https://in.linkedin.com/company/digital-web-analytics-and-optimization) · 📝 [Blog](https://dwao.com/blog) · ✉️ [Contact](https://dwao.com/contact)
+
+</div>
