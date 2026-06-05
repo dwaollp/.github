@@ -22,7 +22,7 @@ With experience spanning collaborations with over 250 clients worldwide, we prid
 ---
 
 ### Connect With Us
-🌐 **Website:** [dwao.in](https://dwao.com)
+🌐 **Website:** [dwao.com](https://dwao.com)
 📍 **Presence:** India | Global | Thailand | UAE | USA
 
 *Have a project in mind or want to collaborate? Reach out via our website.*
