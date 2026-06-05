@@ -2,6 +2,73 @@
 
 DWAO is a Performance Marketing, SEO, and MarTech agency dedicated to driving data-driven growth. We bridge the gap between strategic vision and brand momentum by leveraging technology to help brands connect vision with value.
 
+---
+
+## Our Tech & MarTech Stack
+
+**Languages & Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Cloud, Data & ML**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Adobe Experience Cloud**
+
+![Adobe Experience Platform](https://img.shields.io/badge/Adobe_Experience_Platform-FA0F00?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Target](https://img.shields.io/badge/Adobe_Target-FF3366?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Campaign](https://img.shields.io/badge/Adobe_Campaign-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Audience Manager](https://img.shields.io/badge/Adobe_AAM-EC1C24?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Launch](https://img.shields.io/badge/Adobe_Launch-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+**Analytics & CDP**
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Segment](https://img.shields.io/badge/Segment-52BD95?style=for-the-badge&logo=segment&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+
+**Marketing Automation & Engagement**
+
+![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=for-the-badge&logo=adobe&logoColor=white)
+![Salesforce Marketing Cloud](https://img.shields.io/badge/SFMC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![CleverTap](https://img.shields.io/badge/CleverTap-F47723?style=for-the-badge&logo=clevertap&logoColor=white)
+![MoEngage](https://img.shields.io/badge/MoEngage-DC0D2E?style=for-the-badge&logo=moengage&logoColor=white)
+![WebEngage](https://img.shields.io/badge/WebEngage-4C00FF?style=for-the-badge&logo=webengage&logoColor=white)
+
+**Experimentation & CRO**
+
+![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=for-the-badge&logo=optimizely&logoColor=white)
+![VWO](https://img.shields.io/badge/VWO-EE3984?style=for-the-badge&logo=vwo&logoColor=white)
+![Google Optimize](https://img.shields.io/badge/Google_Optimize-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Paid Media & Activation**
+
+![DV360](https://img.shields.io/badge/DV360-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Amazon DSP](https://img.shields.io/badge/Amazon_DSP-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+
+---
+
 ## Our Capabilities
 
 We specialize in end-to-end digital transformation, advanced analytics, and custom engineering. Our core service areas include:
