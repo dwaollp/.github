@@ -108,16 +108,6 @@ We specialize in end-to-end digital transformation, advanced analytics, and cust
 
 ---
 
-## 📝 From the DWAO Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [ISO Compliance Overview: Security, Privacy & Governance](https://dwao.com/blog/iso-compliance-overview)
-- [How DWAO Transforms Your MoEngage Architecture](https://dwao.com/blog/how-dwao-transforms-your-mo-engage-architecture)
-- [CleverTap Compliance Overview: Security, Privacy & Governance](https://dwao.com/blog/clevertap-compliance-overview)
-- [Google Compliance Overview: Security, Privacy & Governance](https://dwao.com/blog/google-compliance-overview)
-- [Adobe Compliance Overview: Security, Privacy & Governance](https://dwao.com/blog/adobe-compliance-overview)
-<!-- BLOG-POST-LIST:END -->
-
 📰 Read more on the [DWAO Blog →](https://dwao.com/blog)
 
 ---
